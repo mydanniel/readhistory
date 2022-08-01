@@ -1,3 +1,4 @@
+- [比特引力 - 知乎](https://www.zhihu.com/people/ai-qi-pei-ai-sheng-huo/posts) web3 区块链 #web3
 - [RSS Feed Best Practises](https://kevincox.ca/2022/05/06/rss-feed-best-practices/) #rss-readlater
 - [reorx/rss-filter: Modify and regenerate RSS source piped in](https://github.com/reorx/rss-filter/tree/master/rss-filter-cfworkers) rss filter #rss
 - [重新开始使用 RSS 阅读器 | Reorx’s Forge](https://reorx.com/blog/reinitiate-rss-reader/) RSS使用 #rss
