@@ -1,3 +1,4 @@
+- [RSS 丨RSS正确使用方法和无限订阅方式（twitter list）](https://zhuanlan.zhihu.com/p/463167440) Twitter list #rss
 - [登录 Twitter，关注Bit-Gravity](https://twitter.com/biteyinli/status/1501815417865584641) #rss
 - [30 Days of Web3](https://www.30daysofweb3.xyz/) coding #lenstueb #web3
 - [How Gummys Avoids the Dangers of Centralized Clouds with IFPS](https://gummys.medium.com/how-gummys-avoids-the-dangers-of-centralized-clouds-with-ifps-20de8fd9b9f9) ipfs #ipfs-8.1
