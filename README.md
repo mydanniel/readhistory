@@ -1,3 +1,4 @@
+- [reorx/rss-filter: Modify and regenerate RSS source piped in](https://github.com/reorx/rss-filter/tree/master/rss-filter-cfworkers) rss filter #rss
 - [重新开始使用 RSS 阅读器 | Reorx’s Forge](https://reorx.com/blog/reinitiate-rss-reader/) RSS使用 #rss
 - [AboutRSS/ALL-about-RSS: A list of RSS related stuff: tools, services, communities and tutorials, etc.](https://github.com/AboutRSS/ALL-about-RSS) Rss百科全书，使用经验 #rss-rss使用经验
 - [FreshRSS/FreshRSS: A free, self-hostable aggregator…](https://github.com/FreshRSS/FreshRSS) RSS tool #rss
