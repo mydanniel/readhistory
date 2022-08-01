@@ -1,3 +1,5 @@
+
+今天发现最有用的就是osmocraft的三个工具，用了两个，feed和memo，还有一个没用，另外allaboutrss内容很全，发现了一个整理信息流的方法，推荐了几个工具，以及有个博主擅长obsdian，发现了一个github仓库可以过滤rss，以及比特引力
 - [zlexdl/mirror](https://github.com/zlexdl/mirror) mirror RSS feed
 - [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://zlexdl.notion.site/zlexdl/f4aa875aa7be4ccca3918a783c499959) 积累只是就是积累财富 #币圈资料收集
 - [使用RSS筛选币圈有用的信息--补充篇](https://mirror.xyz/zlexdl.eth/7vAc_B_I8WdJ6Eiyp4nWgGX2lMtPKCifUI3wPEM0rTM) RSS导入导出 #rss
