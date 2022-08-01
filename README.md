@@ -1,3 +1,4 @@
+- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://zlexdl.notion.site/zlexdl/f4aa875aa7be4ccca3918a783c499959) 积累只是就是积累财富 #币圈资料收集
 - [使用RSS筛选币圈有用的信息--补充篇](https://mirror.xyz/zlexdl.eth/7vAc_B_I8WdJ6Eiyp4nWgGX2lMtPKCifUI3wPEM0rTM) RSS导入导出 #rss
 - [比特引力 - 知乎](https://www.zhihu.com/people/ai-qi-pei-ai-sheng-huo/posts) web3 区块链 #web3
 - [RSS Feed Best Practises](https://kevincox.ca/2022/05/06/rss-feed-best-practices/) #rss-readlater
