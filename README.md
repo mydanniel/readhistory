@@ -1,3 +1,4 @@
+- [30 Days of Web3](https://www.30daysofweb3.xyz/) coding #lenstueb #web3
 - [How Gummys Avoids the Dangers of Centralized Clouds with IFPS](https://gummys.medium.com/how-gummys-avoids-the-dangers-of-centralized-clouds-with-ifps-20de8fd9b9f9) ipfs #ipfs-8.1
 - [How Gummys Avoids the Dangers of Centralized Clouds with IFPS](https://gummys.medium.com/how-gummys-avoids-the-dangers-of-centralized-clouds-with-ifps-20de8fd9b9f9) #8.1-ipfs
 
