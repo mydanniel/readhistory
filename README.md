@@ -1,3 +1,4 @@
+- [Awesome Tech Blogs](https://tech-blogs.dev/) #blog
 - [Free Web Development Resources](https://web-dev-resources.com/#/) #web-dev
 - [Free Web Development Resources](https://web-dev-resources.com/#/) #web-dev
 hypertrons-crx是xlab开发的分析github仓库关系及开发者关系的一个工具
