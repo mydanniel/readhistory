@@ -1,3 +1,4 @@
+- [20+ tools to help you mine and analyze GitHub and Git data](https://livablesoftware.com/tools-mine-analyze-github-git-software-data/) #github-8.2-data-tool
 
 今天发现最有用的就是osmocraft的三个工具，用了两个，feed和memo，还有一个没用，另外allaboutrss内容很全，发现了一个整理信息流的方法，推荐了几个工具，以及有个博主擅长obsdian，发现了一个github仓库可以过滤rss，以及比特引力
 - [zlexdl/mirror](https://github.com/zlexdl/mirror) mirror RSS feed
