@@ -1,3 +1,4 @@
+- [思圆笔记 – 促成良性循环](https://hintsnet.com/pimgeek/) 知识管理 #km
 - [Awesome Tech Blogs](https://tech-blogs.dev/) #blog
 - [Free Web Development Resources](https://web-dev-resources.com/#/) #web-dev
 - [Free Web Development Resources](https://web-dev-resources.com/#/) #web-dev
