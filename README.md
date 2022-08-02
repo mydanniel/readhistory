@@ -1,3 +1,4 @@
+- [Free Web Development Resources](https://web-dev-resources.com/#/) #web-dev
 hypertrons-crx是xlab开发的分析github仓库关系及开发者关系的一个工具
 - [hypertrons/hypertrons-crx: Hypertrons chrome extension](https://github.com/hypertrons/hypertrons-crx) 开发者分析，开发者关系，组织关系 #github
 - [AntBranch/awesome-github: A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。](https://github.com/AntBranch/awesome-github) github使用百科大全 #github
