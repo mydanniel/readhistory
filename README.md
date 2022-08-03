@@ -1,3 +1,4 @@
+- [How to run Visual Studio Code as root](https://askubuntu.com/questions/803343/how-to-run-visual-studio-code-as-root)  visual studio code #root
 - [XShell+Xmanager实现在XShell中显示远程服务器的图形界面](https://www.icode9.com/content-3-1021482.html) ubuntu  安装图形界面 #ubuntu
 - [思圆笔记 – 促成良性循环](https://hintsnet.com/pimgeek/) 知识管理 #km
 - [Awesome Tech Blogs](https://tech-blogs.dev/) #blog
