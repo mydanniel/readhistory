@@ -1,3 +1,4 @@
+- [GitHub Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/) #github-trending-rss
 8.4   index3.io  很好的mirror搜索工具
 
 - [Index3](https://index3.io/) mirror search #mirror-search
