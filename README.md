@@ -1,7 +1,8 @@
+8.4   index3.io  很好的mirror搜索工具
+
 - [Index3](https://index3.io/) mirror search #mirror-search
 - [Xrdp - 通过Windows的RDP连接Linux远程桌面（Ubuntu/CentOS/Redhat 7）（转载） - pipci - 博客园](https://www.cnblogs.com/pipci/p/10076151.html)
-- 8.3  github malfare  https://twitter.com/stephenla
-- cy/status/1554697077430505473
+- 8.3  github malfare  https://twitter.com/stephenlacy/status/1554697077430505473
 安全工具SocketSecurity，sentry前端监控
 RSS工具有关社交的，推特的，以及RSS357， tiny rss，rss与其他工具的整合
 - [run vs code as root](https://askubuntu.com/questions/1264427/run-vs-code-as-root)
