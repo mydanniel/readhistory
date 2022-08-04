@@ -1,5 +1,9 @@
 - [Index3](https://index3.io/) mirror search #mirror-search
 - [Xrdp - 通过Windows的RDP连接Linux远程桌面（Ubuntu/CentOS/Redhat 7）（转载） - pipci - 博客园](https://www.cnblogs.com/pipci/p/10076151.html)
+- 8.3  github malfare  https://twitter.com/stephenla
+- cy/status/1554697077430505473
+安全工具SocketSecurity，sentry前端监控
+RSS工具有关社交的，推特的，以及RSS357， tiny rss，rss与其他工具的整合
 - [run vs code as root](https://askubuntu.com/questions/1264427/run-vs-code-as-root)
 - [How to run Visual Studio Code as root](https://askubuntu.com/questions/803343/how-to-run-visual-studio-code-as-root)  visual studio code #root
 - [XShell+Xmanager实现在XShell中显示远程服务器的图形界面](https://www.icode9.com/content-3-1021482.html) ubuntu  安装图形界面 #ubuntu
