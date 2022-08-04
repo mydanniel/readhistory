@@ -1,3 +1,4 @@
+- [follow.it | Feedburner Alternative - Get more readers](https://follow.it/intro)
 - [RSS Feeds of your Followings](https://opml.glitch.me/login/twitter/return?oauth_token=tzy73AAAAAAAjJ0vAAABgmhi3iM&oauth_verifier=ordfXGDeC0TkFpr1Cdwd3HxvuPYeIKox)
 - [GitHub Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/) #github-trending-rss
 8.4   index3.io  很好的mirror搜索工具
