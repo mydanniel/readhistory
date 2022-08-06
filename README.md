@@ -1,3 +1,4 @@
+- [truefi-registry/profile.json at 8e26f9fc13e85cc405d25a8164e38d9d6a820da9 · trusttoken/truefi-registry](https://github.com/trusttoken/truefi-registry/blob/8e26f9fc13e85cc405d25a8164e38d9d6a820da9/profiles/mainnet/multicoin/profile.json) #multicoin-address
 - [lana-k/sqliteviz: Instant offline SQL-powered data visualisation in your browser](https://github.com/lana-k/sqliteviz) #8.6-sql-visual
 - [Feeds Mage](https://www.feedsmage.com/)
 - [follow.it | Feedburner Alternative - Get more readers](https://follow.it/intro)
