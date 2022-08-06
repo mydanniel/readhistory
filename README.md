@@ -1,3 +1,4 @@
+- [lana-k/sqliteviz: Instant offline SQL-powered data visualisation in your browser](https://github.com/lana-k/sqliteviz) #8.6-sql-visual
 - [Feeds Mage](https://www.feedsmage.com/)
 - [follow.it | Feedburner Alternative - Get more readers](https://follow.it/intro)
 - [RSS Feeds of your Followings](https://opml.glitch.me/login/twitter/return?oauth_token=tzy73AAAAAAAjJ0vAAABgmhi3iM&oauth_verifier=ordfXGDeC0TkFpr1Cdwd3HxvuPYeIKox)
