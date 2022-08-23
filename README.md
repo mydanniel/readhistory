@@ -1,3 +1,4 @@
+- [foru17/front-end-collect: 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 - [hawx1993/github-FE-project: A collection about github front-end project](https://github.com/hawx1993/github-FE-project)
 - [倾城之链 | NICE LINKS](https://nicelinks.site/) #工具大全
 - [ascoders/weekly: 前端精读周刊。帮你理解最前沿、实用的技术。](https://github.com/ascoders/weekly)
