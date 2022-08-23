@@ -1,3 +1,4 @@
+- [岁月如歌](https://lifesinger.wordpress.com/) #前端#博客
 - [w3ctrain/w3ctrain.github.io: w3ctrian前端收藏夹](https://github.com/w3ctrain/w3ctrain.github.io)
 - [freqtrade/freqtrade: Free, open source crypto trading bot](https://github.com/freqtrade/freqtrade)
 - [botcrypto-io/awesome-crypto-trading-bots: Awesome crypto trading bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
