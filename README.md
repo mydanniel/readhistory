@@ -1,3 +1,4 @@
+- [nicejade/nice-front-end-tutorial: 🌍  Constantly updated front-end resources, tutorials, opinions（与时俱进版前端资源，教程和意见。）](https://github.com/nicejade/nice-front-end-tutorial)
 - [jobbole/awesome-javascript-cn: JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。](https://github.com/jobbole/awesome-javascript-cn)
 - [前端人的俱乐部](http://f2er.club/)
 - [『引』最全前端资源汇集](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/) #百科
