@@ -1,3 +1,4 @@
+- [jnoodle/f2e-collect: 前端开发相关的社区、网站、博客、资源等搜集](https://github.com/jnoodle/f2e-collect)
 - [从零开始nodejs系列文章 | 粉丝日志](http://blog.fens.me/series-nodejs/)
 - [Wscats/articles: 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆](https://github.com/Wscats/articles)
 - [前端收藏夹](http://w3ctrain.github.io/)
