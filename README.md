@@ -1,3 +1,4 @@
+- [Find Open-Source Alternatives | LibHunt](https://www.libhunt.com/site/find_alternatives)
 - [如何成为前端开发者? · Front-end Developer HandBook](https://dwqs.gitbooks.io/frontenddevhandbook/content/practice/making-fd.html)
 - [jnoodle/f2e-collect: 前端开发相关的社区、网站、博客、资源等搜集](https://github.com/jnoodle/f2e-collect)
 - [从零开始nodejs系列文章 | 粉丝日志](http://blog.fens.me/series-nodejs/)
