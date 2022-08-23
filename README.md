@@ -1,3 +1,4 @@
+- [『引』最全前端资源汇集](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/) #百科
 - [『引』最全前端资源汇集](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/)
 - [windiest/Front-end-tutorial: 猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you, and hoping slowly improve, if you like you can star](https://github.com/windiest/Front-end-tutorial)
 - [foru17/front-end-collect: 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
