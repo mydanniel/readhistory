@@ -1,3 +1,4 @@
+- [从零开始nodejs系列文章 | 粉丝日志](http://blog.fens.me/series-nodejs/)
 - [Wscats/articles: 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆](https://github.com/Wscats/articles)
 - [前端收藏夹](http://w3ctrain.github.io/)
 - [windiest/Front-end-tutorial: 猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you, and hoping slowly improve, if you like you can star](https://github.com/windiest/Front-end-tutorial)
