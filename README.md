@@ -1,3 +1,4 @@
+- [botcrypto-io/awesome-crypto-trading-bots: Awesome crypto trading bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 - [bmoscon/cryptofeed: Cryptocurrency Exchange Websocket Data Feed Handler](https://github.com/bmoscon/cryptofeed)
 - [Vue.js Alternatives and Reviews (Aug 2022)](https://www.libhunt.com/r/vue) #github-#alternative
 - [倾城之链 | NICE LINKS](https://nicelinks.site/) #工具大全
