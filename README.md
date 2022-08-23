@@ -1,3 +1,4 @@
+- [foru17/front-end-collect: 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 - [hawx1993/github-FE-project: A collection about github front-end project](https://github.com/hawx1993/github-FE-project)
 - [送给前端的你，推荐几篇前端汇总文章。](https://zhuanlan.zhihu.com/p/22229868?utm_id=0) #前端-百科#百科  8.23
 - [truefi-registry/profile.json at 8e26f9fc13e85cc405d25a8164e38d9d6a820da9 · trusttoken/truefi-registry](https://github.com/trusttoken/truefi-registry/blob/8e26f9fc13e85cc405d25a8164e38d9d6a820da9/profiles/mainnet/multicoin/profile.json) #multicoin-address
