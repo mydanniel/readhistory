@@ -1,3 +1,4 @@
+- [有哪些值得关注的技术博客（前端篇）](https://zhuanlan.zhihu.com/p/22276837)
 - [jaywcjlove/FrontEndBlogCN: 前端博客相关网站搜集](https://github.com/jaywcjlove/FrontEndBlogCN)
 - [foru17/front-end-collect: 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect)
 - [hawx1993/github-FE-project: A collection about github front-end project](https://github.com/hawx1993/github-FE-project)
