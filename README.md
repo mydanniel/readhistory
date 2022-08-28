@@ -1,3 +1,4 @@
+- [2021前端学习路径书单—自我成长之路](https://mp.weixin.qq.com/s/_OZ7QS_f6vQpOABebHK0KQ)
 - [大圣前端学习路线图 | 大圣前端编程自学网](https://shengxinjing.cn/)
 - [Web前端导航](http://www.alloyteam.com/nav/)
 - [Coding Tree](https://mouday.github.io/coding-tree/#/blog/front-end-combat/index)
