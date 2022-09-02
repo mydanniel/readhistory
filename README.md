@@ -1,3 +1,4 @@
+- [weekly/issue-202.md at master · ruanyf/weekly](https://github.com/ruanyf/weekly/blob/master/docs/issue-202.md)
 - [How to Become a Blockchain Engineer](https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f)
 - [Webhook Infrastructure and Tooling - Hookdeck](https://hookdeck.com/)
 - [Crypto apps see highest growth on record in July 2020](https://blog.apptopia.com/crypto-apps-see-highest-growth-on-record-in-july)
