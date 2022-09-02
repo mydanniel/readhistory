@@ -1,3 +1,4 @@
+- [Learn Anything](https://learn-anything.xyz/programming/programming-languages/python)
 - [0x98k’s Blog](https://0x98k.com)
 - [How Much Money is Flowing into Crypto? by @ttunguz](https://tomtunguz.com/how-much-money-flowing-into-crypto/)
 - [前言 | 大厂面试题每日一题](https://q.shanyue.tech/engineering/#%E9%80%82%E5%90%88%E4%BA%BA%E7%BE%A4)
