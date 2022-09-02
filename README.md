@@ -1,3 +1,4 @@
+- [The 10 most downloaded finance apps in 2021](https://blog.apptopia.com/10-most-downloaded-finance-apps)
 - [The mobile measurement company | Adjust](https://www.adjust.com/)
 - [The Apptopia App Beat | Fintech](https://blog.apptopia.com/topic/fintech) app下载统计
 - [nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.](https://github.com/nocodb/nocodb)
