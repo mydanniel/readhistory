@@ -1,3 +1,4 @@
+- [0x98k’s Blog](https://0x98k.com)
 - [How Much Money is Flowing into Crypto? by @ttunguz](https://tomtunguz.com/how-much-money-flowing-into-crypto/)
 - [前言 | 大厂面试题每日一题](https://q.shanyue.tech/engineering/#%E9%80%82%E5%90%88%E4%BA%BA%E7%BE%A4)
 - [weekly/issue-202.md at master · ruanyf/weekly](https://github.com/ruanyf/weekly/blob/master/docs/issue-202.md)
