@@ -1,3 +1,4 @@
+- [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 - [liuchengxu/blockchain-tutorial: A step-by-step blockchain tutorial in simplified Chinese](https://github.com/liuchengxu/blockchain-tutorial)
 - [Learn Anything](https://learn-anything.xyz/programming/programming-languages/python)
 - [0x98k’s Blog](https://0x98k.com)
