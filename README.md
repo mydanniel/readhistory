@@ -1,3 +1,4 @@
+- [liuchengxu/blockchain-tutorial: A step-by-step blockchain tutorial in simplified Chinese](https://github.com/liuchengxu/blockchain-tutorial)
 - [Learn Anything](https://learn-anything.xyz/programming/programming-languages/python)
 - [0x98k’s Blog](https://0x98k.com)
 - [How Much Money is Flowing into Crypto? by @ttunguz](https://tomtunguz.com/how-much-money-flowing-into-crypto/)
