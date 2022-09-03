@@ -1,3 +1,4 @@
+- [How it feels to learn JavaScript in 2016 | HackerNoon](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 - [liuchengxu/blockchain-tutorial: A step-by-step blockchain tutorial in simplified Chinese](https://github.com/liuchengxu/blockchain-tutorial)
 - [Learn Anything](https://learn-anything.xyz/programming/programming-languages/python)
