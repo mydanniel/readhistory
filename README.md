@@ -1,3 +1,4 @@
+- [ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.](https://github.com/ibraheemdev/modern-unix) #tool-linux
 - [Use Excel to Fetch Crypto Market Data with API Queries](https://mirror.xyz/phillan.eth/8nEcuIKFYszHvzmJPagnMXDAlgOpblFf_D33vCmGsH8)
 - [Beyond The Web: Reassembly of the Internet](https://socketsupply.co/blog/beyond-the-web/)
 - [思维导图来学习 Javascript 基础知识 handbook](https://wangchujiang.com/handbook/JavaScript/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%9D%A5%E5%AD%A6%E4%B9%A0%20Javascript%20%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html#%E5%87%BD%E6%95%B0%E5%9F%BA%E7%A1%80)
