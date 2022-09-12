@@ -1,3 +1,4 @@
+- [JavaScript Promise迷你书（中文版）](http://azu.github.io/promises-book/)
 - [ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.](https://github.com/ibraheemdev/modern-unix) #tool-linux
 - [Use Excel to Fetch Crypto Market Data with API Queries](https://mirror.xyz/phillan.eth/8nEcuIKFYszHvzmJPagnMXDAlgOpblFf_D33vCmGsH8)
 - [Beyond The Web: Reassembly of the Internet](https://socketsupply.co/blog/beyond-the-web/)
