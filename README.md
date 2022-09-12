@@ -1,3 +1,4 @@
+- [abc-club/programmer-book: 公众号：普通程序员](https://github.com/abc-club/programmer-book/blob/master/FRONTEND.md) #frontend
 - [推酷 - 个性化聚合阅读 - 推酷](https://www.tuicool.com/)
 - [Index of Labs | labs.jxck.io](https://labs.jxck.io/)
 - [JavaScript Promise迷你书（中文版）](http://azu.github.io/promises-book/)
