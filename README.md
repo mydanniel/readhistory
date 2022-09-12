@@ -1,3 +1,4 @@
+- [前端资源汇总](https://segmentfault.com/a/1190000020314994?utm_source=sf-backlinks#%E8%B6%8B%E5%8A%BF)
 - [GitHub 60000+ Star：命令行的艺术 - 掘金](https://juejin.cn/post/6844903952715087880) #命令行
 - [一个合格(优秀)的前端都应该阅读这些文章 - 掘金](https://juejin.cn/post/6844903896637259784)
 - [强烈推荐 GitHub 上值得前端学习的开源实战项目 · Issue #32 · biaochenxuying/blog](https://github.com/biaochenxuying/blog/issues/32)
