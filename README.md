@@ -1,3 +1,4 @@
+- [前端技术栈干货文章链接（精品）](https://zhuanlan.zhihu.com/p/76184208)
 - [前端进阶必备，github 优质资源整理分享！ - 掘金](https://juejin.cn/post/6844903902299553806)
 - [abc-club/programmer-book: 公众号：普通程序员](https://github.com/abc-club/programmer-book/blob/master/LIST.md)
 - [前端资源汇总](https://segmentfault.com/a/1190000020314994?utm_source=sf-backlinks#%E8%B6%8B%E5%8A%BF)
