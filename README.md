@@ -1,3 +1,4 @@
+- [Github篇 · be-a-professional-programmer](https://thonatos.gitbooks.io/be-a-professional-programmer/content/docs/repos.html)
 - [前言](http://tools.stanzhai.site/) #程序
 - [前端技术栈干货文章链接（精品）](https://zhuanlan.zhihu.com/p/76184208)
 - [前端进阶必备，github 优质资源整理分享！ - 掘金](https://juejin.cn/post/6844903902299553806)
