@@ -1,3 +1,4 @@
+- [abc-club/programmer-book: 公众号：普通程序员](https://github.com/abc-club/programmer-book/blob/master/LIST.md)
 - [前端资源汇总](https://segmentfault.com/a/1190000020314994?utm_source=sf-backlinks#%E8%B6%8B%E5%8A%BF)
 - [GitHub 60000+ Star：命令行的艺术 - 掘金](https://juejin.cn/post/6844903952715087880) #命令行
 - [一个合格(优秀)的前端都应该阅读这些文章 - 掘金](https://juejin.cn/post/6844903896637259784)
