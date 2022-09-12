@@ -1,3 +1,4 @@
+- [一个合格(优秀)的前端都应该阅读这些文章 - 掘金](https://juejin.cn/post/6844903896637259784)
 - [强烈推荐 GitHub 上值得前端学习的开源实战项目 · Issue #32 · biaochenxuying/blog](https://github.com/biaochenxuying/blog/issues/32)
 - [abc-club/programmer-book: 公众号：普通程序员](https://github.com/abc-club/programmer-book/blob/master/FRONTEND.md) #frontend
 - [推酷 - 个性化聚合阅读 - 推酷](https://www.tuicool.com/)
