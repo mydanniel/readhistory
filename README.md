@@ -1,3 +1,4 @@
+- [JavaScript Fun | 前端工坊](https://www.javascript.fun/site/)
 - [The Front-End Developer Learning Roadmap by Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/)
 - [(5条消息) 跟随前端大神的脚步_whqet的博客-CSDN博客](https://blog.csdn.net/whqet/article/details/51896910) #博客
 - [这些年掘金上的高赞优质文章 · Issue #1 · zenghongtu/blog](https://github.com/zenghongtu/blog/issues/1)
