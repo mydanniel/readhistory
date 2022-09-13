@@ -1,4 +1,5 @@
 - [ByteByteGo | Ace Your Next System Design Interview](https://bytebytego.com)
+- [ByteByteGo | Ace Your Next System Design Interview](https://bytebytego.com)
 - [程序员泥瓦匠](https://www.bysocket.com/page/19)
 - [KieSun/awesome-fe-study-source: 获取前端学习资料，随时充电。加入前端学习小组，尽在公众号「前端真好玩」！](https://github.com/KieSun/awesome-fe-study-source)
 - [前端进阶之道](https://yuchengkai.cn/)
