@@ -1,3 +1,4 @@
+- [KieSun/awesome-fe-study-source: 获取前端学习资料，随时充电。加入前端学习小组，尽在公众号「前端真好玩」！](https://github.com/KieSun/awesome-fe-study-source)
 - [前端进阶之道](https://yuchengkai.cn/)
 - [前端进阶之道](https://yuchengkai.cn/)
 - [前端网址导航-前端开发博客](http://caibaojian.com/links/)
