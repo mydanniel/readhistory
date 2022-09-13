@@ -1,3 +1,4 @@
+- [这一次，彻底弄懂 JavaScript 执行机制 - 掘金](https://juejin.cn/post/6844903512845860872)
 - [JavaScript Fun | 前端工坊](https://www.javascript.fun/site/)
 - [The Front-End Developer Learning Roadmap by Frontend Masters](https://frontendmasters.com/guides/learning-roadmap/)
 - [(5条消息) 跟随前端大神的脚步_whqet的博客-CSDN博客](https://blog.csdn.net/whqet/article/details/51896910) #博客
