@@ -1,3 +1,4 @@
+- [9.1 个体的崛起 · HonKit](https://happypeter.github.io/web3book/09-end/individual.html)
 - [目录 · JS前端开发群月报 · 看云](https://www.kancloud.cn/jsfront/month/82796)
 - [桃园](https://taoweng.site/archives/)
 - [ByteByteGo | Ace Your Next System Design Interview](https://bytebytego.com)
