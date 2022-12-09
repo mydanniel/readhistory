@@ -1,3 +1,4 @@
+- [Web3Bootcamps](https://www.rareskills.io/web3-blockchain-bootcamps) #rareskill #web3bootcamps
 - [Filecoin Tokenomics: Understanding an Advancing Economy](https://medium.com/tldrfilecoin/filecoin-tokenomics-understanding-an-advancing-economy-ef319632ffa8) token economics #fil
 - [推文 / Twitter](https://twitter.com/crypthoem/status/1581640333930397696) #cryptoresearch
 - [oxtaw/掘金小册](https://gitee.com/audrey_hepbur/gold-diggings) 经典掘金小册 #react#掘金
