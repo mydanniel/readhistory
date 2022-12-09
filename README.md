@@ -1,3 +1,4 @@
+- [Adjacent Research](https://adjacentresearch.xyz/list.html) all derivative #defi#derivative
 - [Web3Bootcamps](https://www.rareskills.io/web3-blockchain-bootcamps) #rareskill #web3bootcamps
 - [Filecoin Tokenomics: Understanding an Advancing Economy](https://medium.com/tldrfilecoin/filecoin-tokenomics-understanding-an-advancing-economy-ef319632ffa8) token economics #fil
 - [推文 / Twitter](https://twitter.com/crypthoem/status/1581640333930397696) #cryptoresearch
