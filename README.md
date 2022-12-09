@@ -1,3 +1,4 @@
+- [Nichanan Kesonpat](https://www.nichanank.com) 1kx research #blog#forwardthink
 - [M3-org/awesome-metaverse: Awesome metaverse projects](https://github.com/M3-org/awesome-metaverse) metaverse #metaverse
 - [Adjacent Research](https://adjacentresearch.xyz/list.html) all derivative #defi#derivative
 - [Web3Bootcamps](https://www.rareskills.io/web3-blockchain-bootcamps) #rareskill #web3bootcamps
