@@ -1,3 +1,4 @@
+- [Data Explorer: Discover insights in GitHub event data with AI-generated SQL | OSS Insight](https://ossinsight.io/explore/) #girhub
 - [稳定！一年以上老号！ Elevated 权限 Twitter 开发者账号  Twitter Developer Elevated](https://www.devloli.com/buy/7)
 - [Nichanan Kesonpat](https://www.nichanank.com) 1kx research #blog#forwardthink
 - [M3-org/awesome-metaverse: Awesome metaverse projects](https://github.com/M3-org/awesome-metaverse) metaverse #metaverse
